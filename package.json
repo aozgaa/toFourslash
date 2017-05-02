@@ -1,0 +1,19 @@
+{
+  "name": "tofourslash",
+  "version": "1.0.0",
+  "description": "converts a typescript project to a fourslash test with corresponding contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "fourslash"
+  ],
+  "author": "Arthur Ozga",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^7.0.12",
+    "typescript": "^2.2.2"
+  }
+}
